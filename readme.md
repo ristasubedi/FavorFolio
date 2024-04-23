@@ -39,6 +39,10 @@ Home Page
 Categories View Page
 Favorites Page
 Settings page
+
+Features:
+1.Added the tab view for homepage.
+2. Modified the image in the size that will be fitted for the later display of the foods.
 Flow Navigation (Screen to Screen)
 
 [list first screen here]
@@ -49,6 +53,7 @@ Flow Navigation (Screen to Screen)
 ...
 Wireframes
 ![Alt text](Wireframe.png)
+https://www.loom.com/share/a893e044b85c4ab4b60588b6be0533bd?sid=85351144-ea51-4e21-8005-14dd4dbffbfa
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
